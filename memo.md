@@ -13,6 +13,9 @@ printf( "%d\n", val );
 ```
 
 1. **加粗**
+   1. <b>jiacu</b>
+      1. ??
+         1. ???
 2. *倾斜*
 3. ***我全都要***
 
@@ -41,9 +44,7 @@ printf( "%d\n", val );
 セクション１
 ***
 セクション２
-___
+***
 セクション３
 
 [Googleへのリンク](https://google.co.jp)
-
-![ダミー画像](https://via.placeholder.com/150)
