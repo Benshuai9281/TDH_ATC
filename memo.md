@@ -49,16 +49,6 @@ printf( "%d\n", val );
 
 [Googleへのリンク](https://google.co.jp)
 
----
-title: Title of report
-author: Tanuki Kitsune
-date: 2017.1.1
-...
-
-# First section
-
-This is an example report content.
-
 ## How to include images
 
 Including png image:
